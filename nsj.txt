@@ -1,0 +1,5 @@
+191fa191705ede26bc421c25c671e288
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q=${search}&appid={API key}
